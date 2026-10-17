@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project: raw data and large outputs
+Train.csv
+Test.csv
+VariableDefinitions.csv
+*.zip
+logs/
+models/
